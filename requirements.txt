@@ -1,0 +1,2 @@
+matplotlib
+# optional: requests (openai provider), transformers + torch (hf provider)

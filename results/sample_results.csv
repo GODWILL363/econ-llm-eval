@@ -1,0 +1,25 @@
+id,topic,difficulty,correct,reasoning_score,sound_reasoning,category,answer
+t01,trade,easy,True,0.0,False,correct_unsound,lower.
+t02,trade,hard,False,0.0,False,incorrect,it lowers welfare.
+t03,trade,medium,True,1.0,True,correct_sound,domestic consumers.
+t04,trade,medium,True,1.0,True,correct_sound,fall.
+m01,micro,easy,True,0.0,False,correct_unsound,shortage.
+m02,micro,medium,True,1.0,True,correct_sound,consumers.
+m03,micro,medium,True,1.0,True,correct_sound,zero.
+m04,micro,medium,True,1.0,True,correct_sound,unemployment.
+m05,micro,easy,True,1.0,True,correct_sound,higher price.
+m06,micro,medium,True,1.0,True,correct_sound,too much.
+m07,micro,hard,False,0.0,False,incorrect,quantity demanded falls.
+a01,macro,medium,True,1.0,True,correct_sound,raises.
+a02,macro,hard,False,0.0,False,incorrect,real output rises permanently.
+a03,macro,medium,True,1.0,True,correct_sound,crowding out.
+a04,macro,hard,False,0.0,False,incorrect,the trade balance always worsens.
+a05,macro,medium,True,1.0,True,correct_sound,no.
+a06,macro,easy,True,0.0,False,correct_unsound,rise.
+a07,macro,easy,True,1.0,True,correct_sound,nominal rises.
+f01,fixed_income,easy,True,0.0,False,correct_unsound,inverse.
+f02,fixed_income,medium,True,1.0,True,correct_sound,30-year.
+f03,fixed_income,hard,False,0.0,False,incorrect,duration predicts the gain exactly.
+f04,fixed_income,medium,True,1.0,True,correct_sound,recession.
+f05,fixed_income,easy,True,1.0,True,correct_sound,falls.
+f06,fixed_income,hard,True,1.0,True,correct_sound,zero-coupon.

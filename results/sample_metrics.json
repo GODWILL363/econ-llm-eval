@@ -1,0 +1,22 @@
+{
+  "n": 24,
+  "accuracy": 0.792,
+  "sound_reasoning_rate": 0.625,
+  "right_answer_wrong_reasoning": 4,
+  "categories": {
+    "correct_unsound": 4,
+    "incorrect": 5,
+    "correct_sound": 15
+  },
+  "accuracy_by_topic": {
+    "fixed_income": 0.833,
+    "macro": 0.714,
+    "micro": 0.857,
+    "trade": 0.75
+  },
+  "accuracy_by_difficulty": {
+    "easy": 1.0,
+    "hard": 0.167,
+    "medium": 1.0
+  }
+}
